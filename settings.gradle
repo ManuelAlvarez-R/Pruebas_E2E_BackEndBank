@@ -1,0 +1,7 @@
+pluginManagement {
+    repositories {
+        mavenLocal()
+        gradlePluginPortal()
+    }
+}
+rootProject.name = 'Pruebas_E2E_Backend_Bank'
